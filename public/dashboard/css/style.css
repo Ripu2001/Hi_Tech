@@ -1,0 +1,16 @@
+.team-social{
+    list-style-type: none;
+    padding:0px;
+    display: inline;
+}
+.team-social li{
+    display: inline;
+    margin-right:15px;
+}
+.team-social li i{
+    font-size: 20px;
+}
+.team-social-text{
+    display: inline;
+    margin-top:10px;
+}
